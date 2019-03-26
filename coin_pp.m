@@ -64,3 +64,7 @@ xlabel('number of weightings')
 ylabel('probability of success')
 legend({'fake coin : 1','fake coin : 2','fake coin : 3','fake coin : 4','fake coin : 5'},'Location','northeast')
 toc
+
+
+
+%%%
